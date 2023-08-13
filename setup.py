@@ -4,7 +4,7 @@ REQUIRES = [
     'requests',
     'structlog',
     'curlify',
-    'allure=pytest'
+    'allure-pytest'
 ]
 
 setup(
